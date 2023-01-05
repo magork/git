@@ -61,13 +61,13 @@ I have added an example, but be creative:
 
 **Magor**
 
-*DevOps Engineer*
+*DevOps*
 
 Likes:
   * [x] coding
-  * [x] teaching
-  * [x] video games
-  * [x] mma
+  * [x] learning
+  * [x] movies
+  * [x] travel
 I would like to have in the presentation:
 
 name
